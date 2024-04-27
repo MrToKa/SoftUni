@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("First steps in programming")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e8ed7bda5b9d27895a08cae5655b016c479c655")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bbc52b57dbc358e4993907574dd825729161052")]
 [assembly: System.Reflection.AssemblyProductAttribute("First steps in programming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("First steps in programming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
