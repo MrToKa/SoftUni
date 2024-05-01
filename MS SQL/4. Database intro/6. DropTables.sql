@@ -1,0 +1,2 @@
+DROP TABLE [Towns]
+DROP TABLE [Minions]
