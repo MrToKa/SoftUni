@@ -1,0 +1,15 @@
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\bin\Debug\net8.0\DatabaseFirst.exe
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\bin\Debug\net8.0\DatabaseFirst.deps.json
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\bin\Debug\net8.0\DatabaseFirst.runtimeconfig.json
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\bin\Debug\net8.0\DatabaseFirst.dll
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\bin\Debug\net8.0\DatabaseFirst.pdb
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\DatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\DatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\DatabaseFirst.AssemblyInfo.cs
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\DatabaseFirst.sourcelink.json
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\DatabaseFirst.dll
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\refint\DatabaseFirst.dll
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\DatabaseFirst.pdb
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\DatabaseFirst.genruntimeconfig.cache
+C:\Users\TOKA\Source\Repos\SoftUni\Entity Framework Core\8. EF Intro\DatabaseFirst\obj\Debug\net8.0\ref\DatabaseFirst.dll
